@@ -1,0 +1,11 @@
+nav ul li{
+    /* list-style: none; */
+    background-color: blueviolet;
+    /* list-style-position: inside; */
+    border: 2px solid red;
+    /* list-style-image: url(https://liveatpc.com/wp-content/uploads/2017/11/hand.jpg); */
+
+/* ya uper wala same code h lekin ya awala ak line ma h */
+    list-style: disc inside url(https://liveatpc.com/wp-content/uploads/2017/11/hand.jpg);
+    
+}
